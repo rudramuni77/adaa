@@ -25,7 +25,7 @@ int main()
 				break;
 			}}
 			
-		if(a[j]==n-1)
+		if(ele!=a[j])
                    
 			printf("-1 (Element is not present)\n");
 			
